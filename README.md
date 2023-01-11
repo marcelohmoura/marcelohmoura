@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcelohmoura
-- 👀 I’m interested in JavaScript / NodeJS
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Java Language
+- 🌱 I’m currently learning Java Development
 
 
