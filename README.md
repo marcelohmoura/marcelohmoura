@@ -1,4 +1,4 @@
-# Olá eu sou Marcelo Moura, Desenvolvedor Back-End 👋 👨‍💻
+# Olá, eu sou Marcelo Moura, Desenvolvedor Back-End 👋
 Profissional com mais de 4 anos de experiência em TI, atualmente faço
 parte do time de Derivativos na CSD BR, ajudando a criar produtos de
 qualidade para o mercado financeiro.
