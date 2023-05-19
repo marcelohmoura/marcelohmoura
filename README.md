@@ -2,6 +2,7 @@
 Profissional com mais de 4 anos de experiência em TI, atualmente faço
 parte do time de Derivativos na CSD BR, ajudando a criar produtos de
 qualidade para o mercado financeiro.
+Atualmente estou estudando Java e revisando os conceitos de Programação Orientada a Objetos.
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
